@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente como auxiliar de produção
 - 🌱 Estudando Front-end para Web
-- 📊Estudando Analise de Dados/Ads
+- 📊Estudando Analise de Dados/Análise e Desenvolvimento de Sistemas
 - 💬 Cotate-me no email:heber.vh21@gmail.com
 <div></div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
